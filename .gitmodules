@@ -1,0 +1,6 @@
+[submodule "apps/funmill-api"]
+	path = apps/funmill-api
+	url = https://github.com/farfarfun/funmill-api.git
+[submodule "apps/funmill-sdk"]
+	path = apps/funmill-sdk
+	url = https://github.com/farfarfun/funmill-sdk.git
