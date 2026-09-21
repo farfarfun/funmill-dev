@@ -10,3 +10,8 @@
 2026-09-21 15:23:30.193 |INFO    | funbuild.core.submodule_workspace_build : submodule_workspace_build: 282 | funbuild | - build /home/bingtao/workspace/github/farfarfun/funmill-dev/apps/funmill-api with shared version 0.1.8
 2026-09-21 15:23:40.518 |INFO    | funbuild.core.submodule_workspace_build : submodule_workspace_build: 282 | funbuild | - build /home/bingtao/workspace/github/farfarfun/funmill-dev/apps/funmill-sdk with shared version 0.1.8
 2026-09-21 15:23:49.769 |INFO    | funbuild.core.base : base: 191 | funbuild | - funmill-dev push
+2026-09-21 15:46:21.686 |INFO    | funbuild.core.submodule_workspace_build : submodule_workspace_build: 275 | funbuild | - funmill-dev build (submodule workspace)
+2026-09-21 15:46:21.687 |INFO    | funbuild.core.base : base: 149 | funbuild | - funmill-dev pull
+2026-09-21 15:46:22.142 |INFO    | funbuild.core.submodule_workspace_build : submodule_workspace_build: 282 | funbuild | - build /home/bingtao/workspace/github/farfarfun/funmill-dev/apps/funmill-api with shared version 1.0.2
+2026-09-21 15:46:32.558 |INFO    | funbuild.core.submodule_workspace_build : submodule_workspace_build: 282 | funbuild | - build /home/bingtao/workspace/github/farfarfun/funmill-dev/apps/funmill-sdk with shared version 1.0.2
+2026-09-21 15:46:41.998 |INFO    | funbuild.core.base : base: 191 | funbuild | - funmill-dev push
